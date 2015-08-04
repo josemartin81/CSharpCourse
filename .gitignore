@@ -1,2 +1,4 @@
-./CSharpCourse/bin
-./CSharpCourse/obj
+CSharpCourse/bin
+CSharpCourse/bin/Debug
+CSharpCourse/obj
+CSharpCourse/obj/Debug

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 
 namespace CSharpCourse
 {
@@ -10,7 +11,7 @@ namespace CSharpCourse
         static void Main(string[] args)
         {
 
-            ArrayList lstStudent = new ArrayList();
+            List<Student> lstStudent = new List<Student>();
 
             Student student1 = new Student("Student1", "Last_Name1", new DateTime(2000, 1, 1),
                 "address1", "address2", "city", "state", "01", "country");
@@ -48,18 +49,6 @@ namespace CSharpCourse
 
 
             course1.ListStudents();
-
-            //Console.WriteLine("The {0} contains the {1} degree", uprogram1.program_name, uprogram1.degrees[0].degree_name);
-            //Console.WriteLine("The {0} degree contains the course {1}", uprogram1.degrees[0].degree_name,
-            //    uprogram1.degrees[0].courses[0].course_name);
-            //Console.WriteLine("The {0} course contains {1} students", uprogram1.degrees[0].courses[0].course_name,
-            //    Convert.ToString(uprogram1.degrees[0].courses[0].students.Count));
-
-            //student1.TakeTest();
-            //teacher1.GradeTest();
-
-            // the static varible shows the total number of instancied students
-            //Console.WriteLine("Total number of students: {0}", Convert.ToString(Student.count) );
 
             Console.Write("Press any key to continue...");
             Console.ReadKey();
