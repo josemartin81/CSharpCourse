@@ -1,0 +1,5 @@
+﻿1. What other objects could benefit from inheritance in this code?
+The other objects could not obtain benefit from inheritance since it does not share code between them.
+2. Can you think of a different hierarchy for the Person, Teacher, and Student?  What is it?
+Another intermediate class between Person and Teacher/Student, called AcademicPerson, could be included.
+This class would contain an academic ID. 
