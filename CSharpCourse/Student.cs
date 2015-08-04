@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace CSharpCourse
 {
@@ -6,6 +7,7 @@ namespace CSharpCourse
     {
 
         public static int count = 0;
+        public Stack grades { get; set; }
 
         public Student(string first_name, string last_name, DateTime birthday,
             string address_line1, string address_line2, string city,
@@ -13,6 +15,7 @@ namespace CSharpCourse
                 last_name, birthday, address_line1, address_line2, city,
                 state_province, zip_postal, country)
         {
+            this.grades = new Stack();
             count++;
         }
 
