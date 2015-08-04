@@ -2,7 +2,7 @@
 
 namespace CSharpCourse
 {
-    class Program
+    class Module2
     {
 
 

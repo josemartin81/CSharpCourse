@@ -21,27 +21,27 @@ namespace Module1
             string student_zip_postal;
             string student_country;
 
-            string teacher_first_name;
-            string teacher_last_name;
-            DateTime teacher_birthday;
-            string teacher_address_line1;
-            string teacher_address_line2;
-            string teacher_city;
-            string teacher_state_province;
-            string teacher_zip_postal;
-            string teacher_country;
+            //string teacher_first_name;
+            //string teacher_last_name;
+            //DateTime teacher_birthday;
+            //string teacher_address_line1;
+            //string teacher_address_line2;
+            //string teacher_city;
+            //string teacher_state_province;
+            //string teacher_zip_postal;
+            //string teacher_country;
 
-            string uprogram_program_name;
-            string uprogram_department_head;
-            string uprogram_degrees;
+            //string uprogram_program_name;
+            //string uprogram_department_head;
+            //string uprogram_degrees;
 
-            string degree_degree_name;
-            int degree_credits_required;
+            //string degree_degree_name;
+            //int degree_credits_required;
 
-            string course_course_name;
-            int course_credits;
-            int course_duration_in_weeks;
-            string course_teacher;
+            //string course_course_name;
+            //int course_credits;
+            //int course_duration_in_weeks;
+            //string course_teacher;
 
             //variables assigment (only to one set as is indicated in section 3)
             student_first_name = "Jose";

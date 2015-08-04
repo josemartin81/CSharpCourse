@@ -1,0 +1,6 @@
+c:\project\CSharpCourse\CSharpCourse\bin\Debug\CSharpCourse.exe.config
+c:\project\CSharpCourse\CSharpCourse\bin\Debug\CSharpCourse.exe
+c:\project\CSharpCourse\CSharpCourse\bin\Debug\CSharpCourse.pdb
+c:\project\CSharpCourse\CSharpCourse\obj\Debug\CSharpCourse.exe
+c:\project\CSharpCourse\CSharpCourse\obj\Debug\CSharpCourse.pdb
+c:\project\CSharpCourse\CSharpCourse\obj\Debug\CSharpCourse.csprojResolveAssemblyReference.cache
